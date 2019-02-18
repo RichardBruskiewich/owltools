@@ -112,7 +112,7 @@
 						<configuration>
 							<resources>
 								<resource>
-									<directory>${build.directory}</directory>
+									<directory>${project.build.directory}</directory>
 									<includes>
 										<include>owltools</include>
 									</includes>
